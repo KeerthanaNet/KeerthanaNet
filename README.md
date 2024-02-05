@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @KeerthanaNet
+- 👀 I’m Looking new positions in .Net ...
+- 🌱 I’m currently Working in Walmart ...
+- 💞️ I’m looking to have a chat on the position avaliable...
+- 📫 How to reach me +1(779)-261-0455...
+- 📫 Email: keerthana.net09@gmail.com
+- 😄 Phonetic : ...Keer-tha-na
+- ⚡ Fun fact: ...Banging your head against a wall for one hour burns 150 calories
+
+<!---
+KeerthanaNet/KeerthanaNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
